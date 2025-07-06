@@ -1,4 +1,4 @@
-# Vehicle-DB---Internship
+# VehicleDB - Internship
 Project made for an software engineering Internship at Bank of Punjab. It is a simple vehicle database management system with a REST API and a web-based frontend (made to look nice via css).
 
 # Features
@@ -10,7 +10,7 @@ Postman Tested – All endpoints verified with Postman collections <br>
 
 # Project Structure
 
-├── Frontend
+├── Frontend <br>
 ├───── dashboard.jsp           # Web dashboard with authentication and navigation <br>
 ├───── addVehicle.jsp          # JSP page to add new vehicles <br>
 ├───── deleteVehicle.jsp       # JSP page to delete vehicles <br>
