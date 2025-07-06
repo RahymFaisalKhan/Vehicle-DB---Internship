@@ -3,33 +3,33 @@ Project made for an software engineering Internship at Bank of Punjab. It is a s
 
 # Features
 
-Authentication – Secure login for API access
-CRD operations - Add, Delete, View Vehicle options
-API & Web Frontend – Complete stack built with JSP and Java servlet
-Postman Tested – All endpoints verified with Postman collections
+Authentication – Secure login for API access <br>
+CRD operations - Add, Delete, View Vehicle options <br>
+API & Web Frontend – Complete stack built with JSP and Java servlet <br>
+Postman Tested – All endpoints verified with Postman collections <br>
 
 # Project Structure
 
 ├── Frontend
-├───── dashboard.jsp           # Web dashboard with authentication and navigation
-├───── addVehicle.jsp          # JSP page to add new vehicles
-├───── deleteVehicle.jsp       # JSP page to delete vehicles
-├───── viewVehicles.jsp        # JSP page to list vehicles
-├── Vehicle_DB_API.java     # Core Java API logic (servlets for vehicle operations)
+├───── dashboard.jsp           # Web dashboard with authentication and navigation <br>
+├───── addVehicle.jsp          # JSP page to add new vehicles <br>
+├───── deleteVehicle.jsp       # JSP page to delete vehicles <br>
+├───── viewVehicles.jsp        # JSP page to list vehicles <br>
+├── Vehicle_DB_API.java     # Core Java API logic (servlets for vehicle operations) <br>
 ├── DB_interactive_console.class # used as a .jar import in API implementation
 
 # Prerequisites
 
-Java 8+
-Tomcat or any compatible servlet container
-MySQL/PostgreSQL database (or any JDBC-compatible DB)
+Java 8+ <br>
+Tomcat or any compatible servlet container <br>
+MySQL/PostgreSQL database (or any JDBC-compatible DB) <br>
 
 # API Endpoints
 
-GET /vehicles
-POST /vehicles
-DELETE /vehicles/:number
-All endpoints require basic authentication.
+GET /vehicles <br>
+POST /vehicles <br>
+DELETE /vehicles/:number <br>
+All endpoints require basic authentication. <br>
 
 # Screenshots
 
